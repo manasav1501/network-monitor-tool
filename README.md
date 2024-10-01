@@ -9,6 +9,3 @@ A text Editor Like Mousepad to store the code.
 On opening the Tool, only 5 rows of data will be displayed. To view the rest the viewer has to pay which can be performed by clicking on the ‘Pay Now’ button.  
 After pressing on pay now, all the remaining rows will be displayed  
 If you wish to search for a particular Source or DestinationIP address, just type “Source IP:” followed by its address and the results will be displayed accordingly. Same goes for time and reason columns as well.
-
-I got this code from ChatGPT. I do not take credit for it. But I learned how websites are made, scripts written, how to search for color codes and how network traffic is captured.  
-ChatGPT is amazing for learning! Make good use of it :)  
